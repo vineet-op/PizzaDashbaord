@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Name: Vineet Jadhav
 
-## Getting Started
+# 🍕 Pizza Website with Dashboard
 
-First, run the development server:
+A modern, responsive pizza ordering website built using **Next.js**, **Tailwind CSS**, **ShadCN UI**, **Framer Motion**, and **Clerk Authentication**. This project features a sleek customer-facing UI for browsing and ordering pizzas, as well as a dashboard for admins to manage orders and content.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🔐 User authentication with [Clerk.dev](https://clerk.dev)
+- ⚡ Smooth animations using Framer Motion
+- 🎨 Beautiful UI powered by ShadCN and Tailwind CSS
+- 📦 Dynamic dashboard with sorting functionality
+- 💡 Fully responsive and mobile-friendly layout
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📺 Demo
 
-To learn more about Next.js, take a look at the following resources:
+<!-- Embed your demo video or GIF here -->
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Framework**: [Next.js](https://nextjs.org)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com) + [ShadCN UI](https://ui.shadcn.com)
+- **Animation**: [Framer Motion](https://www.framer.com/motion/)
+- **Authentication**: [Clerk](https://clerk.com)
+- **Deployment**: [Vercel](https://vercel.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📂 Project Structure
+
+## 🧑‍💻 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/pizza-dashboard.git
+   cd pizza-dashboard
+   ```
+
+2. dd your Clerk environment variables to .env.local
+   ```bash
+   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_key_here
+   CLERK_SECRET_KEY=your_secret_here
+   ```
+
+3. Run the development server
+  ```bash
+  npm run dev
+  ```
+
+
+
+
+
