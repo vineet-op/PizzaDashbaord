@@ -27,6 +27,7 @@ https://github.com/user-attachments/assets/930f646c-07d5-41a3-a030-a954c31c10b3
 ## 🛠️ Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org)
+- **Language**: [Typescript](https://www.typescriptlang.org)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com) + [ShadCN UI](https://ui.shadcn.com)
 - **Animation**: [Framer Motion](https://www.framer.com/motion/)
 - **Authentication**: [Clerk](https://clerk.com)
