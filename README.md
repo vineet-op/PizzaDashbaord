@@ -19,7 +19,8 @@ A modern, responsive pizza ordering website built using **Next.js**, **Tailwind 
 ## 📺 Demo
 
 <!-- Embed your demo video or GIF here -->
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+https://github.com/user-attachments/assets/930f646c-07d5-41a3-a030-a954c31c10b3
+
 
 ---
 
